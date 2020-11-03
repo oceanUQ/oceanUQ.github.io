@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark
 locale                   : "en-US"
 title                    : "Ocean Uncertainty Quantification"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "US CLIVAR Working Group on uncertainty quantification in ocean observational and model data"
 name                     : ""
 description              : "US CLIVAR Working Group on uncertainty quantification in ocean observational and model data"
 url                      : "https://OceanUQ.github.io"
@@ -71,7 +71,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "Ocean_UQ"
 facebook:
   username               :
   app_id                 :
@@ -97,7 +97,7 @@ author:
   name             : "OceanUQ"
   avatar           : "/assets/images/logo-inverse.png"
   bio              : ""
-  location         : "Somewhere"
+  location         : ""
   email            :
   links:
     - label: "Email"
@@ -108,7 +108,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/ocean_uq"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -124,7 +124,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/ocean_uq"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
