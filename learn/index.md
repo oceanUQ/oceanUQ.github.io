@@ -10,7 +10,7 @@ title: "Resources for uncertainty quantification for physical ocean variables"
 - Quality Assurance of Oceanographic Observations: Standards and Guidance Adopted by an International Partnership, [https://www.frontiersin.org/articles/10.3389/fmars.2019.00706/full](https://www.frontiersin.org/articles/10.3389/fmars.2019.00706/full). Discussion of uncertainty in paper and good example of UQ in the [Supplemental Material](https://www.frontiersin.org/articles/10.3389/fmars.2019.00706/full#S11).
 - Quantifying Uncertainty in Analytical Measurement, EURACHEM / CITAC Guide CG 4, [https://www.eurachem.org/images/stories/Guides/pdf/QUAM2012\_P1.pdf](https://www.eurachem.org/images/stories/Guides/pdf/QUAM2012_P1.pdf).
 - Journal of Open Source Software: peer reviewed code best practices [https://joss.theoj.org/](https://joss.theoj.org/)
-- [Ocean Best Practices](https://www.oceanbestpractices.org/)
+- [Ocean Best Practices System](https://www.oceanbestpractices.org/) or [OBPS Uncertainty search](https://search.oceanbestpractices.org/search?q=uncertainty&fields=all)
 
 ## Publications and reports
 
