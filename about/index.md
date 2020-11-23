@@ -1,10 +1,8 @@
 ---
 layout: home
-title: About
+title: The OceanUQ Team
 author_profile: false
 ---
-
-## Who We Are
 
 <div class="row">
   <div class="column">
