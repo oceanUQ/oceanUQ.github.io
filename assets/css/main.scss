@@ -1,7 +1,6 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-// $link-color: red;
 a{
   text-decoration: none;
 }
@@ -31,7 +30,7 @@ a{
 .card {
 //   box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.2);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  height: 450px;
+  height: 480px;
 }
 
 /* Some left and right padding inside the container */
