@@ -33,7 +33,6 @@ title: "Resources for uncertainty quantification for physical ocean variables"
 - Timms GP, de Souza PA Jr, Reznik L, Smith DV. Automated data quality assessment of marine sensors. Sensors (Basel). 2011;11(10):9589-9602. doi:10.3390/s111009589
 - UNESCO/IOC. 2020. Quality Control of in situ Sea Level Observations: A Review and Progress towards Automated Quality Control, Vol. 1. Paris, UNESCO. IOC Manuals and Guides No. 83. (IOC/2020/MG/83Vol.1), [https://unesdoc.unesco.org/ark:/48223/pf0000373566](https://unesdoc.unesco.org/ark:/48223/pf0000373566)
 - Wunsch, C. (2018). Towards determining uncertainties in global oceanic mean values of heat, salt, and surface elevation. Tellus a: Dynamic Meteorology and Oceanography, 70(1), 1–14. [http://doi.org/10.1080/16000870.2018.1471911](http://doi.org/10.1080/16000870.2018.1471911)
--
 
 **UQ in science &amp; UQ communication**
 
