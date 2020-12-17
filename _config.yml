@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark
 locale                   : "en-US"
 title                    : "Ocean Uncertainty Quantification"
 title_separator          : "-"
-subtitle                 : "US CLIVAR Working Group on uncertainty quantification in ocean observational and model data"
+subtitle                 : "Quantifying uncertainty in ocean data"
 name                     : ""
 description              : "US CLIVAR Working Group on uncertainty quantification in ocean observational and model data"
 url                      : "https://OceanUQ.github.io"
