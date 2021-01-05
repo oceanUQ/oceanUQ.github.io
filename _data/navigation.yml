@@ -8,7 +8,7 @@ main:
     url: /learn/
   #- title: "Team"
   #  url: /team/
-  - title: "News"
-    url: /news/
+  #- title: "News"
+  #  url: /news/
   # - title: "Sitemap"
   #   url: /sitemap/
