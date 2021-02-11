@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-title: Mission Statement
+title: OceanUQ
 header:
   image: /assets/images/Ocean_Butterfly_banner_small.jpeg
 ---
