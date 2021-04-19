@@ -287,3 +287,5 @@ defaults:
       type: pages
     values:
       layout: single
+
+theme: jekyll-theme-cayman
